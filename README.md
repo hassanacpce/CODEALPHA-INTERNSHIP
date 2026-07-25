@@ -128,7 +128,7 @@ Each model is evaluated using:
 
 ---
 
-## 📉 Model Comparison
+##  Model Comparison
 
 The performance of all trained models is compared using:
 
@@ -139,24 +139,7 @@ This helps identify the best-performing classifier.
 
 ---
 
-## 📁 Project Structure
 
-```
-Iris-Flower-Classification/
-│
-├── Iris_Classification.ipynb
-├── Iris.csv
-├── outputs/
-│   ├── correlation_heatmap.png
-│   ├── pairplot.png
-│   ├── model_comparison.png
-│   └── confusion_matrix.png
-├── results.csv
-├── requirements.txt
-└── README.md
-```
-
----
 
 ##  How to Run
 
@@ -194,7 +177,7 @@ using:
 
 ---
 
-## 📌 Results
+##  Results
 
 The project successfully classifies Iris flowers with high accuracy using multiple machine learning algorithms.
 
@@ -202,7 +185,7 @@ Among the evaluated models, the best-performing classifier is selected based on 
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Deploy the model using Streamlit or Flask
 - Add an interactive prediction interface
@@ -212,7 +195,7 @@ Among the evaluated models, the best-performing classifier is selected based on 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hassan Baig**
 
@@ -220,6 +203,4 @@ Artificial Intelligence & Data Science Student
 
 ---
 
-## 📜 License
 
-This project is developed for educational and learning purposes.
