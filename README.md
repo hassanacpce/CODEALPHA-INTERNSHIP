@@ -162,8 +162,7 @@ This repository is created for educational purposes as part of the **CodeAlpha I
 
 Artificial Intelligence & Data Science Student
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+
 
 Artificial Intelligence & Data Science Student
 
